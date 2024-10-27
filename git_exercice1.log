@@ -1,0 +1,20 @@
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	git_exercice1.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+commit 40e9bf2a1004b5fe7ec1970560f39789b9b1f641
+Author: Maryam <maryam.boroughani@gmail.comm>
+Date:   Sun Oct 27 19:12:34 2024 -0400
+
+    modifier
+
+commit 8920b4a621bd8540c223105328249bdb8a7bb28e
+Author: Maryam <maryam.boroughani@gmail.comm>
+Date:   Sun Oct 27 19:07:32 2024 -0400
+
+    initial commit
